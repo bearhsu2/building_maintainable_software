@@ -1,6 +1,6 @@
-package idv.kuma.chap03.refactored;
+package idv.kuma.chap03.better;
 
-import idv.kuma.chap03.refactored.flag.*;
+import idv.kuma.chap03.better.flag.*;
 
 import java.awt.*;
 import java.util.HashMap;

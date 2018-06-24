@@ -1,4 +1,4 @@
-package idv.kuma.chap03.refactored.flag;
+package idv.kuma.chap03.better.flag;
 
 import java.awt.*;
 import java.util.List;

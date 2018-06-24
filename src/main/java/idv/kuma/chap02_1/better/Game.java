@@ -1,4 +1,4 @@
-package idv.kuma.chap02_1.refactored;
+package idv.kuma.chap02_1.better;
 
 import java.util.List;
 
