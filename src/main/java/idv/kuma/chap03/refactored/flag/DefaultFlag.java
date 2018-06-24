@@ -1,4 +1,4 @@
-package idv.kuma.chap02.refactored.flag;
+package idv.kuma.chap03.refactored.flag;
 
 import java.awt.*;
 import java.util.Arrays;

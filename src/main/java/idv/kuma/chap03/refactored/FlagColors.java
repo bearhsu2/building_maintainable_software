@@ -1,14 +1,11 @@
-package idv.kuma.chap02.refactored;
+package idv.kuma.chap03.refactored;
 
-import idv.kuma.chap02.refactored.flag.*;
+import idv.kuma.chap03.refactored.flag.*;
 
 import java.awt.*;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
-import static java.awt.Color.*;
 
 public class FlagColors {
 

@@ -1,4 +1,4 @@
-package idv.kuma.chap01.refactored;
+package idv.kuma.chap02_1.bad;
 
 import java.sql.Connection;
 

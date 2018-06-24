@@ -1,4 +1,4 @@
-package idv.kuma.chap03.bad;
+package idv.kuma.chap04.bad;
 
 public class EmailSender {
 

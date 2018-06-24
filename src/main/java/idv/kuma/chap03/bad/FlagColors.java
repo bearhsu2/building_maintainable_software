@@ -1,4 +1,4 @@
-package idv.kuma.chap02.bad;
+package idv.kuma.chap03.bad;
 
 import java.awt.Color;
 import java.util.Arrays;

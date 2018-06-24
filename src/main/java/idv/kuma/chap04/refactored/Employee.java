@@ -1,4 +1,4 @@
-package idv.kuma.chap03.refactored;
+package idv.kuma.chap04.refactored;
 
 public abstract class Employee {
 

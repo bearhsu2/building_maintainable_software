@@ -1,4 +1,4 @@
-package idv.kuma.chap01.bad;
+package idv.kuma.chap02_1.bad;
 
 import java.util.List;
 

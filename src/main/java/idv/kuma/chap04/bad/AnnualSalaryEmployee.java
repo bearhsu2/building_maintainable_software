@@ -1,6 +1,6 @@
-package idv.kuma.chap03.refactored;
+package idv.kuma.chap04.bad;
 
-public class AnnualSalaryEmployee extends Employee{
+public class AnnualSalaryEmployee {
 
     double annualSalary;
     int months;
@@ -13,9 +13,15 @@ public class AnnualSalaryEmployee extends Employee{
     }
 
     public void calculateAndSend(){
-        sendEmail(annualSalary / 12 * months, address);
+
+        double salary = annualSalary / 12 * months;
+
+        EmailSender sender = new EmailSender();
+        System.out.println("sending email...");
+        sender.send(salary, address);
+        System.out.println("Done.");
+
+
     }
-
-
 
 }
